@@ -1,0 +1,13 @@
+// style.scss
+// Removes all margin and padding from body,
+// and adds 10px margin to all <p> tags inside body.
+
+body {
+  margin: 0;
+  padding: 0;
+
+  p {
+    margin: 10px;
+  }
+}
+
